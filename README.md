@@ -34,7 +34,7 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SSMS](https://img.shields.io-badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ---
