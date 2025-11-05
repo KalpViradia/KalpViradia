@@ -50,19 +50,21 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=radical" alt="Kalp's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpViradia&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KalpViradia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- 🟣 GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=KalpViradia&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<!-- 🔵 GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
 
+<!-- 🟢 Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpViradia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+
+<!-- 👁️ Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=KalpViradia&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
 ---
 
 ## 📫 Connect With Me  
