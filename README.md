@@ -52,13 +52,13 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 
 <div align="center">
 
-<!-- 🟦 Row 1: Stats + Top Languages -->
-<table>
+<!-- 🟦 Row 1: Stats + Top Languages (no border) -->
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpViradia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
     </td>
   </tr>
