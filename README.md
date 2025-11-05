@@ -56,11 +56,11 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpViradia&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KalpViradia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalpViradia&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
