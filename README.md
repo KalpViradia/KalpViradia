@@ -52,24 +52,21 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 
 <div align="center">
 
-<!-- 🟦 Row 1: Stats + Top Languages (no border) -->
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpViradia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
-    </td>
-  </tr>
-</table>
+<!-- 🟦 Row 1: Stats + Top Languages -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpViradia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
+</p>
 
 <!-- 🟪 Row 2: GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=KalpViradia&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%"/>
+<p>
+  <img src="https://streak-stats.demolab.com?user=KalpViradia&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%"/>
+</p>
 
 <!-- 🟣 Row 3: Profile Views -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=KalpViradia&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KalpViradia&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
