@@ -56,7 +56,7 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpViradia&theme=radical" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=KalpViradia&show_icons=true&theme=radical&count_private=true&hide_title=true)
 </p>
 
 <p align="center">
