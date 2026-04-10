@@ -75,7 +75,7 @@ Currently focusing on **placement preparation**, improving my **coding skills**,
 ## 📫 Connect With Me  
 
 🌐 **Portfolio:** [kalpviradia.vercel.app](https://kalpviradia.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/kalp‑viradia‑637610318/](https://www.linkedin.com/in/kalp-viradia-637610318)  
+💼 **LinkedIn:** [linkedin.com/in/kalp‑viradia‑637610318](https://www.linkedin.com/in/kalp-viradia-637610318)  
 📧 **Email:** [kalp.viradia@gmail.com]  
 
 ---
