@@ -87,5 +87,3 @@ I enjoy learning new technologies not just to build projects — but to understa
 ---
 
 ⭐️ *“Strive for progress, not perfection.”*
-
-update the readme to add https://kalpviradia.vercel.app instead of github link
