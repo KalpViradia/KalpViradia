@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kalp Viradia
 
-* 🎓 **B.Tech Computer Science (3rd Year)**
+* 🎓 **B.Tech Computer Science (4rd Year)**
 * 🏫 **Darshan University, Rajkot, Gujarat, India**
 * 💻 **Software Developer | AI/ML Learner | Problem Solver**
 
