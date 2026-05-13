@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kalp Viradia
 
-🎓 **B.Tech Computer Science (3rd Year)**
+🎓 **B.Tech Computer Science (4rd Year)**
 🏫 Darshan University, Rajkot, Gujarat, India
 💻 Software Developer | AI/ML Learner | Problem Solver
 
@@ -79,9 +79,9 @@ NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: kalpviradia.vercel.app
-💼 LinkedIn: linkedin.com/in/kalp-viradia
-📧 Email: [kalp.viradia@gmail.com](mailto:kalp.viradia@gmail.com)
+* 🌐 **Portfolio:** [kalpviradia.vercel.app](https://kalpviradia.vercel.app)
+* 💼 **LinkedIn:** [linkedin.com/in/kalp-viradia](https://www.linkedin.com/in/kalp-viradia)
+* 📧 **Email:** [kalp.viradia@gmail.com](mailto:kalp.viradia@gmail.com)
 
 ---
 
