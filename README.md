@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kalp Viradia
 
-* 🎓 **B.Tech Computer Science (4rd Year)**
+* 🎓 **B.Tech Computer Science (4th Year)**
 * 🏫 **Darshan University, Rajkot, Gujarat, India**
 * 💻 **Software Developer | AI/ML Learner | Problem Solver**
 
@@ -46,8 +46,8 @@ NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch
 * Advanced **Data Structures & Algorithms**
 * **Machine Learning & Deep Learning**
 * **Generative AI & LLM Applications**
-* **Backend System Design**
-* **Scalable Full-Stack Development**
+* **Backend Development & Scalable APIs**
+* **Full-Stack Development**
 
 ---
 
@@ -56,7 +56,7 @@ NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch
 * Artificial Intelligence & Machine Learning
 * Full-Stack Development
 * Backend Engineering
-* Problem Solving & System Design
+* Problem Solving & Software Development
 
 ---
 
